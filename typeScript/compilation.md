@@ -1,5 +1,5 @@
 # Компилирование файлов TypeScript
-___
+____
 ```
 tsc *имя файла => tsc index.ts        // результатом получится файл index.js
 tsc index.ts --outfile file-name.js   // изменение имени js файла

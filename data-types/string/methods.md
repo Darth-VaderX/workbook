@@ -1,4 +1,5 @@
 # Методы объекта String
+____
 
 * <a href="#substring">substring()</a>
 * <a href="#toLowerCase">toLowerCase()</a>
