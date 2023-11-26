@@ -24,6 +24,14 @@ console.log(NaN == NaN)  // false
 ```
 console.log(NaN / 10) // NaN
 ```
+
+Для проверки, является ли значение NaN, рекомендует использовать метод `Number.isNaN`. Мы также можем написать вспомогательную функцию для решения проблемы «неравенства NaN самому себе».
+```
+function checkIsNan(value){
+    return value !== value
+}
+```
+
 [infinity](infinity.md)<br>
 [Number](number.md)<br>
 [Примитивы](../primitive.md)<br>

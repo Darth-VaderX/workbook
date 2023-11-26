@@ -9,7 +9,18 @@ __Операнды__ — то, к чему применяется операто
 ## Виды операторов
 * [Унарный](unary.md)
 * [Бинарный](binary.md)
-* [Математические операторы](mathOperators.md)
 * [Запятая](comma.md)
-* [Главное меню](../README.md)
+* [Логические операторы](logic.md)
+* [Математические операторы](mathOperators.md)
+* [typeof](typeof.md)
+* [delete](delete.md)
+* [in](in.md)
+* this
+* instanceof
+* new
+* void
+* function
+
+
+[Главное меню](../README.md)
 
