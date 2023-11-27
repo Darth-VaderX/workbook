@@ -6,9 +6,9 @@ JavaScript является _слабо типизированным_ или _д
 
 ## В JavaScript 2 основных типа данных:
   * [Primitive](primitive.md)
-  * [Object](/)<br>
+  * [Object](object/object.md)<br>
 
-## Основные структуры данных для работы с коллекциями
+## Cтруктуры данных для работы с коллекциями
 * [Массивы](collections/array.md)
 * [Псевдомассивы](collections/pseudoarray.md)
 
