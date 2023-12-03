@@ -21,5 +21,8 @@ try {
 	console.error('file does not exists');
 }
 ```
-[Модуль FS](filesystem.md)<br>
-[Node.JS](nodeJS.md)<br>
+[Модуль FS](native/filesystem.md)<br>
+[Dirname](native/dir.md)<br>
+[Stream](native/stream.md)<br>
+[MIME-type](native/mime.md)<br>
+[Create Server](native/server.md)<br>

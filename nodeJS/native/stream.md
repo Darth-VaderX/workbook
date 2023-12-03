@@ -27,7 +27,8 @@ readStream.pipe(writeStream)
 
 Методы __pipe__ можно вызывать цепочкой друг за другом. При этом каждый вызов метода в цепочке позволяет выполнять над данными некоторые операции: _readableStream.pipe(операция).pipe(операция).pipe(операция)_;
 
-[Модуль FS](filesystem.md)<br>
-[Константы FS](constFs.md)<br>
-[dirname](dir.md)<br>
-[NodeJS](nodeJS.md)<br>
+[Модуль FS](native/filesystem.md)<br>
+[Константы FS](native/constFs.md)<br>
+[Dirname](native/dir.md)<br>
+[MIME-type](native/mime.md)<br>
+[Create Server](native/server.md)<br>

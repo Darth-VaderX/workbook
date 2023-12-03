@@ -12,5 +12,8 @@ export default __dirname;
 index.js
 import __dirname from './__dirname.js';
 ```
-[Файловая система](filesystem.md)<br>
-[Node.JS](nodeJS.md)<br>
+[Модуль FS](native/filesystem.md)<br>
+[Константы FS](native/constFs.md)<br>
+[Stream](native/stream.md)<br>
+[MIME-type](native/mime.md)<br>
+[Create Server](native/server.md)<br>

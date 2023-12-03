@@ -83,5 +83,9 @@ async function func() {
 
 func();
 ```
-[dirname](dir.md)<br>
-[Node.JS](nodeJS.md)<br>
+
+[Константы FS](native/constFs.md)<br>
+[Dirname](native/dir.md)<br>
+[Stream](native/stream.md)<br>
+[MIME-type](native/mime.md)<br>
+[Create Server](native/server.md)<br>
